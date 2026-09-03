@@ -1,0 +1,17 @@
+# Wifi-wachtwoorden en API-keys - nooit committen
+EspMicTest/secrets.h
+XiaoSenseTest/secrets.h
+
+# Python venv
+.venv/
+__pycache__/
+
+# Arduino build-output
+build/
+*.elf
+*.bin
+*.hex
+*.map
+
+# macOS
+.DS_Store
